@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://luxury-home-touch-7ld.pages.dev/sitemap.xml

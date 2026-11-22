@@ -1,0 +1,2357 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "c34d94afd611e53ad60c842c99dcd7b6"
+    },
+    {
+        "path": "a-timeless-flooring-choice-for-elegant-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/a-timeless-flooring-choice-for-elegant-interiors/index.html",
+        "type": "file",
+        "md5": "b08cd42224fda2341a21b903aab62c1a"
+    },
+    {
+        "path": "about-us",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/about-us/index.html",
+        "type": "file",
+        "md5": "2fe425ad91e8a7b0dba4b285281e804c"
+    },
+    {
+        "path": "antique-brass-hardware-timeless-details-for-elegant-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/antique-brass-hardware-timeless-details-for-elegant-interiors/index.html",
+        "type": "file",
+        "md5": "9326263192bee56c1a3fe1631b8dfe08"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "0c990d4827458acea6404357d22e5619"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "c08f8540d506d9aeff445ee3dbabb9d5"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/isotope.pkgd.min.js",
+        "type": "file",
+        "md5": "2afcff647ed260006faa71c8e779e8d4"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "d1197e1400c54c27939ee87fa7ee9741"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "1762f7ab131e33a4eb8fb224822de245"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "151e31ba62789782fcd457b5b884ba8a"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "2813b916db5705fbd8cc3024ce107375"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/villa-and-mansion-decor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/villa-and-mansion-decor/index.html",
+        "type": "file",
+        "md5": "a84cb004bb918e7d50b7b5874d1b3944"
+    },
+    {
+        "path": "authors/villa-and-mansion-decor/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/villa-and-mansion-decor/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/villa-and-mansion-decor/page/2/index.html",
+        "type": "file",
+        "md5": "2bc776d6234327830f4cf602e026ba6c"
+    },
+    {
+        "path": "authors/villa-and-mansion-decor/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/villa-and-mansion-decor/page/3/index.html",
+        "type": "file",
+        "md5": "7df3c74fa64334e1d9fece612551bab3"
+    },
+    {
+        "path": "contact-us",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/contact-us/index.html",
+        "type": "file",
+        "md5": "20a4338ed2311437687afbba9e7908a5"
+    },
+    {
+        "path": "creating-an-elegant-and-welcoming-first-impression",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creating-an-elegant-and-welcoming-first-impression/index.html",
+        "type": "file",
+        "md5": "d9096f3db4e18ce4bde9f43be02ec2df"
+    },
+    {
+        "path": "creating-an-impressive-entrance-with-elegant-interior-design",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creating-an-impressive-entrance-with-elegant-interior-design/index.html",
+        "type": "file",
+        "md5": "5b7c92aabb454f930bd72c45b1d5e1d9"
+    },
+    {
+        "path": "creative-ideas-to-make-your-interior-feel-elegant-and-inviting",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creative-ideas-to-make-your-interior-feel-elegant-and-inviting/index.html",
+        "type": "file",
+        "md5": "c8a07349156d963159b603c6b99f42b7"
+    },
+    {
+        "path": "elegant-design-ideas-for-a-sophisticated-interior",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elegant-design-ideas-for-a-sophisticated-interior/index.html",
+        "type": "file",
+        "md5": "203cf11a49e56ce14b1b713ca20590a9"
+    },
+    {
+        "path": "elegant-lighting-ideas-for-a-modern-and-luxurious-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elegant-lighting-ideas-for-a-modern-and-luxurious-home/index.html",
+        "type": "file",
+        "md5": "c88adfceae864b94701a2bfdb370b141"
+    },
+    {
+        "path": "elegant-lighting-ideas-to-bring-luxury-and-sophistication-into-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elegant-lighting-ideas-to-bring-luxury-and-sophistication-into-your-home/index.html",
+        "type": "file",
+        "md5": "bafa1c4642e8a023e84f888fd07975be"
+    },
+    {
+        "path": "elevating-interior-design-with-decorative-and-functional-wall-lighting",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elevating-interior-design-with-decorative-and-functional-wall-lighting/index.html",
+        "type": "file",
+        "md5": "4a3dab0e17095a22c3c79c49d298d973"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "1358a4953f69b8e126fff9602a0a37d8"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "1a2ae94e0295637565a475e4e975bba6"
+    },
+    {
+        "path": "high-ceiling-styling-elegant-ideas-for-creating-a-spacious-and-luxurious-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/high-ceiling-styling-elegant-ideas-for-creating-a-spacious-and-luxurious-home/index.html",
+        "type": "file",
+        "md5": "7cc9d5fbc8fa7364b90434ef4cc7855d"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "8954a6c8a825fb3951c2aa85957e24ad"
+    },
+    {
+        "path": "italian-marble-tiles-elegant-flooring-for-luxurious-and-timeless-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/italian-marble-tiles-elegant-flooring-for-luxurious-and-timeless-interiors/index.html",
+        "type": "file",
+        "md5": "76b5e77faf6a4e74405c0a9fc2e45d87"
+    },
+    {
+        "path": "italian-marble-tiles-timeless-elegance-for-beautiful-and-luxurious-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/italian-marble-tiles-timeless-elegance-for-beautiful-and-luxurious-interiors/index.html",
+        "type": "file",
+        "md5": "d128f6885ffb4a5cd52ad5563879cebb"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/images-55.jpg",
+        "type": "file",
+        "md5": "0d62bffe58c4d20f6e036bbfdbc7731f"
+    },
+    {
+        "path": "/media/posts/10/images-56.jpg",
+        "type": "file",
+        "md5": "26c9ca4df724d83e4d08342116677393"
+    },
+    {
+        "path": "media/posts/10/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/responsive/images-55-lg.jpg",
+        "type": "file",
+        "md5": "944be12213596bf3b44d837f103e7429"
+    },
+    {
+        "path": "/media/posts/10/responsive/images-55-md.jpg",
+        "type": "file",
+        "md5": "944be12213596bf3b44d837f103e7429"
+    },
+    {
+        "path": "/media/posts/10/responsive/images-55-sm.jpg",
+        "type": "file",
+        "md5": "92f0f6d623dd42ee266e11b4c79dd33c"
+    },
+    {
+        "path": "/media/posts/10/responsive/images-55-xs.jpg",
+        "type": "file",
+        "md5": "3b63b0d2492820e1192ccea494f52cd9"
+    },
+    {
+        "path": "/media/posts/10/responsive/images-56-2xl.jpg",
+        "type": "file",
+        "md5": "a2b7e919b85b08d4f153f160f8ed540f"
+    },
+    {
+        "path": "/media/posts/10/responsive/images-56-lg.jpg",
+        "type": "file",
+        "md5": "a2b7e919b85b08d4f153f160f8ed540f"
+    },
+    {
+        "path": "/media/posts/10/responsive/images-56-md.jpg",
+        "type": "file",
+        "md5": "a2b7e919b85b08d4f153f160f8ed540f"
+    },
+    {
+        "path": "/media/posts/10/responsive/images-56-sm.jpg",
+        "type": "file",
+        "md5": "a2b7e919b85b08d4f153f160f8ed540f"
+    },
+    {
+        "path": "/media/posts/10/responsive/images-56-sm2.jpg",
+        "type": "file",
+        "md5": "4e4cf342641095ff9599bd945b5ecb07"
+    },
+    {
+        "path": "/media/posts/10/responsive/images-56-xl.jpg",
+        "type": "file",
+        "md5": "a2b7e919b85b08d4f153f160f8ed540f"
+    },
+    {
+        "path": "/media/posts/10/responsive/images-56-xs.jpg",
+        "type": "file",
+        "md5": "9555ce019b2468a4af0366db434aded4"
+    },
+    {
+        "path": "media/posts/11",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/images-57.jpg",
+        "type": "file",
+        "md5": "bd467b020545f983d74fd22b87345fb1"
+    },
+    {
+        "path": "/media/posts/11/images-58.jpg",
+        "type": "file",
+        "md5": "937e110c7701753d72cbeb0d8968a15d"
+    },
+    {
+        "path": "media/posts/11/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/responsive/images-57-lg.jpg",
+        "type": "file",
+        "md5": "c3d0fbb048ef45548db34901af4cf26a"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-57-md.jpg",
+        "type": "file",
+        "md5": "c3d0fbb048ef45548db34901af4cf26a"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-57-sm.jpg",
+        "type": "file",
+        "md5": "0b4bdf2e019ce29dcb478c510e1cf2ab"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-57-xs.jpg",
+        "type": "file",
+        "md5": "f72ca44db3f95523f7ca9d84f05e6611"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-58-2xl.jpg",
+        "type": "file",
+        "md5": "cda6a23f277fe9af4181f5e8eb65d3b6"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-58-lg.jpg",
+        "type": "file",
+        "md5": "cda6a23f277fe9af4181f5e8eb65d3b6"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-58-md.jpg",
+        "type": "file",
+        "md5": "cda6a23f277fe9af4181f5e8eb65d3b6"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-58-sm.jpg",
+        "type": "file",
+        "md5": "cda6a23f277fe9af4181f5e8eb65d3b6"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-58-sm2.jpg",
+        "type": "file",
+        "md5": "285dea74bd75326be83d99a3148a7d18"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-58-xl.jpg",
+        "type": "file",
+        "md5": "cda6a23f277fe9af4181f5e8eb65d3b6"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-58-xs.jpg",
+        "type": "file",
+        "md5": "7fd99c24c427f35d7f03a3e10dd8a011"
+    },
+    {
+        "path": "media/posts/12",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/images-59.jpg",
+        "type": "file",
+        "md5": "51100c965c047266c8364f528a0b1177"
+    },
+    {
+        "path": "/media/posts/12/images-60.jpg",
+        "type": "file",
+        "md5": "5121d1d22f27a380e8640d2139b7a27d"
+    },
+    {
+        "path": "media/posts/12/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/responsive/images-59-2xl.jpg",
+        "type": "file",
+        "md5": "e8091b42e9a9130d0b86ab87aaf33d8b"
+    },
+    {
+        "path": "/media/posts/12/responsive/images-59-lg.jpg",
+        "type": "file",
+        "md5": "e8091b42e9a9130d0b86ab87aaf33d8b"
+    },
+    {
+        "path": "/media/posts/12/responsive/images-59-md.jpg",
+        "type": "file",
+        "md5": "e8091b42e9a9130d0b86ab87aaf33d8b"
+    },
+    {
+        "path": "/media/posts/12/responsive/images-59-sm.jpg",
+        "type": "file",
+        "md5": "e8091b42e9a9130d0b86ab87aaf33d8b"
+    },
+    {
+        "path": "/media/posts/12/responsive/images-59-sm2.jpg",
+        "type": "file",
+        "md5": "e8091b42e9a9130d0b86ab87aaf33d8b"
+    },
+    {
+        "path": "/media/posts/12/responsive/images-59-xl.jpg",
+        "type": "file",
+        "md5": "e8091b42e9a9130d0b86ab87aaf33d8b"
+    },
+    {
+        "path": "/media/posts/12/responsive/images-59-xs.jpg",
+        "type": "file",
+        "md5": "9a8ec88f60c389562d6109a6562f0caf"
+    },
+    {
+        "path": "/media/posts/12/responsive/images-60-lg.jpg",
+        "type": "file",
+        "md5": "ddf0427add16db1dfd2457ae8a6234c0"
+    },
+    {
+        "path": "/media/posts/12/responsive/images-60-md.jpg",
+        "type": "file",
+        "md5": "ddf0427add16db1dfd2457ae8a6234c0"
+    },
+    {
+        "path": "/media/posts/12/responsive/images-60-sm.jpg",
+        "type": "file",
+        "md5": "ddf0427add16db1dfd2457ae8a6234c0"
+    },
+    {
+        "path": "/media/posts/12/responsive/images-60-xs.jpg",
+        "type": "file",
+        "md5": "59cdbf5d1439ce6ddd9502a2527cbab6"
+    },
+    {
+        "path": "media/posts/13",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/images-61.jpg",
+        "type": "file",
+        "md5": "468534b1d2bc838e49496ff85205da04"
+    },
+    {
+        "path": "/media/posts/13/images-62.jpg",
+        "type": "file",
+        "md5": "ee206b260aa6c7835f89e28e79f5a916"
+    },
+    {
+        "path": "media/posts/13/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/responsive/images-61-lg.jpg",
+        "type": "file",
+        "md5": "caf085670acda2d6162bfd810382ec96"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-61-md.jpg",
+        "type": "file",
+        "md5": "caf085670acda2d6162bfd810382ec96"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-61-sm.jpg",
+        "type": "file",
+        "md5": "caf085670acda2d6162bfd810382ec96"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-61-xs.jpg",
+        "type": "file",
+        "md5": "4ca07909797b9713ef26f5ce5547d08e"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-62-2xl.jpg",
+        "type": "file",
+        "md5": "ca1b59c203177f1baa8b380c78ca927f"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-62-lg.jpg",
+        "type": "file",
+        "md5": "ca1b59c203177f1baa8b380c78ca927f"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-62-md.jpg",
+        "type": "file",
+        "md5": "ca1b59c203177f1baa8b380c78ca927f"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-62-sm.jpg",
+        "type": "file",
+        "md5": "ca1b59c203177f1baa8b380c78ca927f"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-62-sm2.jpg",
+        "type": "file",
+        "md5": "bd1006bf00d562cc451c956474c59364"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-62-xl.jpg",
+        "type": "file",
+        "md5": "ca1b59c203177f1baa8b380c78ca927f"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-62-xs.jpg",
+        "type": "file",
+        "md5": "2a505c08f2f99089789de7c537b0ac91"
+    },
+    {
+        "path": "media/posts/14",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/images-63.jpg",
+        "type": "file",
+        "md5": "0f20633637e54d17f63d62521be0c089"
+    },
+    {
+        "path": "/media/posts/14/images-64.jpg",
+        "type": "file",
+        "md5": "225a305a4cbea3180323f481a9fcc8f9"
+    },
+    {
+        "path": "media/posts/14/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/responsive/images-63-lg.jpg",
+        "type": "file",
+        "md5": "fbeefc160217c6f0957481e6838defb5"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-63-md.jpg",
+        "type": "file",
+        "md5": "fbeefc160217c6f0957481e6838defb5"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-63-sm.jpg",
+        "type": "file",
+        "md5": "fbeefc160217c6f0957481e6838defb5"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-63-xs.jpg",
+        "type": "file",
+        "md5": "1da5ceffe1f0ae2cbcadb88ee7553293"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-64-2xl.jpg",
+        "type": "file",
+        "md5": "9e05a64dd364ae49341538706d2173e3"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-64-lg.jpg",
+        "type": "file",
+        "md5": "9e05a64dd364ae49341538706d2173e3"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-64-md.jpg",
+        "type": "file",
+        "md5": "9e05a64dd364ae49341538706d2173e3"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-64-sm.jpg",
+        "type": "file",
+        "md5": "9e05a64dd364ae49341538706d2173e3"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-64-sm2.jpg",
+        "type": "file",
+        "md5": "5c4d1c5488c0b943cff2b0708a8f9f90"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-64-xl.jpg",
+        "type": "file",
+        "md5": "9e05a64dd364ae49341538706d2173e3"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-64-xs.jpg",
+        "type": "file",
+        "md5": "fb0216b8881331b2f205b19d3d636189"
+    },
+    {
+        "path": "media/posts/15",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/images-65.jpg",
+        "type": "file",
+        "md5": "17f446ef6ee926f3f52bebce0f7e3d29"
+    },
+    {
+        "path": "/media/posts/15/images-66.jpg",
+        "type": "file",
+        "md5": "85371e0d70d50d5c465558b2e145bfcb"
+    },
+    {
+        "path": "media/posts/15/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/responsive/images-65-lg.jpg",
+        "type": "file",
+        "md5": "7c23916003937125558930638dbe57a3"
+    },
+    {
+        "path": "/media/posts/15/responsive/images-65-md.jpg",
+        "type": "file",
+        "md5": "7c23916003937125558930638dbe57a3"
+    },
+    {
+        "path": "/media/posts/15/responsive/images-65-sm.jpg",
+        "type": "file",
+        "md5": "7c23916003937125558930638dbe57a3"
+    },
+    {
+        "path": "/media/posts/15/responsive/images-65-xs.jpg",
+        "type": "file",
+        "md5": "85b03dddf55bd9cb17152bb716a735d2"
+    },
+    {
+        "path": "/media/posts/15/responsive/images-66-2xl.jpg",
+        "type": "file",
+        "md5": "57e4789d459fee8a125e5cfb787e9618"
+    },
+    {
+        "path": "/media/posts/15/responsive/images-66-lg.jpg",
+        "type": "file",
+        "md5": "57e4789d459fee8a125e5cfb787e9618"
+    },
+    {
+        "path": "/media/posts/15/responsive/images-66-md.jpg",
+        "type": "file",
+        "md5": "57e4789d459fee8a125e5cfb787e9618"
+    },
+    {
+        "path": "/media/posts/15/responsive/images-66-sm.jpg",
+        "type": "file",
+        "md5": "08f9514d552705da6ede6a2ff4071c84"
+    },
+    {
+        "path": "/media/posts/15/responsive/images-66-sm2.jpg",
+        "type": "file",
+        "md5": "ee3280460779c79eef1abe52a51cec88"
+    },
+    {
+        "path": "/media/posts/15/responsive/images-66-xl.jpg",
+        "type": "file",
+        "md5": "57e4789d459fee8a125e5cfb787e9618"
+    },
+    {
+        "path": "/media/posts/15/responsive/images-66-xs.jpg",
+        "type": "file",
+        "md5": "88894c54cb0d6128e876b9bdbd56ec6b"
+    },
+    {
+        "path": "media/posts/16",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/images-2026-10-20T092303.249.jpg",
+        "type": "file",
+        "md5": "5c8c36bb77a43ae747bf726d64d994b5"
+    },
+    {
+        "path": "/media/posts/16/images-2026-10-20T092311.410.jpg",
+        "type": "file",
+        "md5": "53dbab5dda4c0e9ad312e0770fdb7389"
+    },
+    {
+        "path": "media/posts/16/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-20T092303.249-lg.jpg",
+        "type": "file",
+        "md5": "5fed0b3829172b78e86c6ba9b8a8b4e8"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-20T092303.249-md.jpg",
+        "type": "file",
+        "md5": "5fed0b3829172b78e86c6ba9b8a8b4e8"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-20T092303.249-sm.jpg",
+        "type": "file",
+        "md5": "cece6069da6e22bd9c8b09cd7a6a9da1"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-20T092303.249-xs.jpg",
+        "type": "file",
+        "md5": "bd25718fd2e448ac6df67dd0fb1a9782"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-20T092311.410-2xl.jpg",
+        "type": "file",
+        "md5": "08aeb61e382ce63a686205aff679784d"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-20T092311.410-lg.jpg",
+        "type": "file",
+        "md5": "08aeb61e382ce63a686205aff679784d"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-20T092311.410-md.jpg",
+        "type": "file",
+        "md5": "08aeb61e382ce63a686205aff679784d"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-20T092311.410-sm.jpg",
+        "type": "file",
+        "md5": "54f2553a552126d6a4b5eb041bc7abca"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-20T092311.410-sm2.jpg",
+        "type": "file",
+        "md5": "138defe2a13f101a91920631da78c351"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-20T092311.410-xl.jpg",
+        "type": "file",
+        "md5": "08aeb61e382ce63a686205aff679784d"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-20T092311.410-xs.jpg",
+        "type": "file",
+        "md5": "927b7c26248b19b6614d70efa2092470"
+    },
+    {
+        "path": "media/posts/17",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/images-2026-10-23T004541.999.jpg",
+        "type": "file",
+        "md5": "68b48ccd6a0fd687dd36b500cae85619"
+    },
+    {
+        "path": "/media/posts/17/images-2026-10-23T004549.350.jpg",
+        "type": "file",
+        "md5": "ace0e8e3163010f3903c0c35d121144b"
+    },
+    {
+        "path": "media/posts/17/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-23T004541.999-lg.jpg",
+        "type": "file",
+        "md5": "75ee1fdf942205ac1e2620de9b9b8592"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-23T004541.999-md.jpg",
+        "type": "file",
+        "md5": "75ee1fdf942205ac1e2620de9b9b8592"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-23T004541.999-sm.jpg",
+        "type": "file",
+        "md5": "75ee1fdf942205ac1e2620de9b9b8592"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-23T004541.999-xs.jpg",
+        "type": "file",
+        "md5": "da6a5ec78660b9b378cab002d55cd7f7"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-23T004549.350-2xl.jpg",
+        "type": "file",
+        "md5": "65ed29e61339508b7ecc2bffe832887f"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-23T004549.350-lg.jpg",
+        "type": "file",
+        "md5": "65ed29e61339508b7ecc2bffe832887f"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-23T004549.350-md.jpg",
+        "type": "file",
+        "md5": "65ed29e61339508b7ecc2bffe832887f"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-23T004549.350-sm.jpg",
+        "type": "file",
+        "md5": "f475d57399b6a31dfc65c03e2e2a5a81"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-23T004549.350-sm2.jpg",
+        "type": "file",
+        "md5": "d8db4dff7a74345e83137bb0486fe24f"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-23T004549.350-xl.jpg",
+        "type": "file",
+        "md5": "65ed29e61339508b7ecc2bffe832887f"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-23T004549.350-xs.jpg",
+        "type": "file",
+        "md5": "0bde50215e2c15bc019ed493c78af065"
+    },
+    {
+        "path": "media/posts/18",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/18/images-2026-10-24T093404.573.jpg",
+        "type": "file",
+        "md5": "861422d867673a5309a19ee3544116b8"
+    },
+    {
+        "path": "/media/posts/18/images-2026-10-24T093411.375.jpg",
+        "type": "file",
+        "md5": "d7fd26e1e7673c46437cc6bc4e6d3da5"
+    },
+    {
+        "path": "media/posts/18/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/18/responsive/images-2026-10-24T093404.573-lg.jpg",
+        "type": "file",
+        "md5": "2a6480588325eb9d30855aa065312813"
+    },
+    {
+        "path": "/media/posts/18/responsive/images-2026-10-24T093404.573-md.jpg",
+        "type": "file",
+        "md5": "2a6480588325eb9d30855aa065312813"
+    },
+    {
+        "path": "/media/posts/18/responsive/images-2026-10-24T093404.573-sm.jpg",
+        "type": "file",
+        "md5": "0c4fb179434f014ef3c3ce5d0d46c84b"
+    },
+    {
+        "path": "/media/posts/18/responsive/images-2026-10-24T093404.573-xs.jpg",
+        "type": "file",
+        "md5": "5711c54cf70de9914c67c79b177f484e"
+    },
+    {
+        "path": "/media/posts/18/responsive/images-2026-10-24T093411.375-2xl.jpg",
+        "type": "file",
+        "md5": "8ece026b5aa601420b67d7d46dd15bed"
+    },
+    {
+        "path": "/media/posts/18/responsive/images-2026-10-24T093411.375-lg.jpg",
+        "type": "file",
+        "md5": "8ece026b5aa601420b67d7d46dd15bed"
+    },
+    {
+        "path": "/media/posts/18/responsive/images-2026-10-24T093411.375-md.jpg",
+        "type": "file",
+        "md5": "8ece026b5aa601420b67d7d46dd15bed"
+    },
+    {
+        "path": "/media/posts/18/responsive/images-2026-10-24T093411.375-sm.jpg",
+        "type": "file",
+        "md5": "7318ce19a75e8ca522dbdb703cd8b4b4"
+    },
+    {
+        "path": "/media/posts/18/responsive/images-2026-10-24T093411.375-sm2.jpg",
+        "type": "file",
+        "md5": "02967f1308427af71ce42819c8387417"
+    },
+    {
+        "path": "/media/posts/18/responsive/images-2026-10-24T093411.375-xl.jpg",
+        "type": "file",
+        "md5": "8ece026b5aa601420b67d7d46dd15bed"
+    },
+    {
+        "path": "/media/posts/18/responsive/images-2026-10-24T093411.375-xs.jpg",
+        "type": "file",
+        "md5": "85cf44dba9cbd31e15fe95d5ea0fec61"
+    },
+    {
+        "path": "media/posts/19",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/19/images-2026-10-27T090046.392.jpg",
+        "type": "file",
+        "md5": "d120cf70cb88d12bc06e2c0a0da6ea25"
+    },
+    {
+        "path": "/media/posts/19/images-2026-10-27T090052.799.jpg",
+        "type": "file",
+        "md5": "30852005e72a4e135fd28c331837c6b4"
+    },
+    {
+        "path": "media/posts/19/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T090046.392-lg.jpg",
+        "type": "file",
+        "md5": "d97e3bc2a43c16efbf26ef6128aa867c"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T090046.392-md.jpg",
+        "type": "file",
+        "md5": "d97e3bc2a43c16efbf26ef6128aa867c"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T090046.392-sm.jpg",
+        "type": "file",
+        "md5": "d97e3bc2a43c16efbf26ef6128aa867c"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T090046.392-xs.jpg",
+        "type": "file",
+        "md5": "4b4aa1448d3982a20e9dde74435428db"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T090052.799-2xl.jpg",
+        "type": "file",
+        "md5": "a997774bd26298383d3fe33f3c47cc13"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T090052.799-lg.jpg",
+        "type": "file",
+        "md5": "a997774bd26298383d3fe33f3c47cc13"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T090052.799-md.jpg",
+        "type": "file",
+        "md5": "a997774bd26298383d3fe33f3c47cc13"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T090052.799-sm.jpg",
+        "type": "file",
+        "md5": "a997774bd26298383d3fe33f3c47cc13"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T090052.799-sm2.jpg",
+        "type": "file",
+        "md5": "eb6ef54221cdc2dd72b0ee0d01deed1e"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T090052.799-xl.jpg",
+        "type": "file",
+        "md5": "a997774bd26298383d3fe33f3c47cc13"
+    },
+    {
+        "path": "/media/posts/19/responsive/images-2026-10-27T090052.799-xs.jpg",
+        "type": "file",
+        "md5": "3682c71bd760aca1c62fd44cdbbc56ed"
+    },
+    {
+        "path": "media/posts/20",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/20/images-2026-10-29T003856.064.jpg",
+        "type": "file",
+        "md5": "65f410fc8a56411ee00796255e9b8412"
+    },
+    {
+        "path": "/media/posts/20/images-2026-10-29T003900.469.jpg",
+        "type": "file",
+        "md5": "43751c09c75a52c4dd6df5b77031813f"
+    },
+    {
+        "path": "media/posts/20/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T003856.064-lg.jpg",
+        "type": "file",
+        "md5": "6e5894e69347f73e80b1f7b380e8c0c8"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T003856.064-md.jpg",
+        "type": "file",
+        "md5": "6e5894e69347f73e80b1f7b380e8c0c8"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T003856.064-sm.jpg",
+        "type": "file",
+        "md5": "90af23e53a6dbee3aa1cc7e6c9c069ca"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T003856.064-xs.jpg",
+        "type": "file",
+        "md5": "1aa6bcbfcc08c0280f6383eb04d7b9c4"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T003900.469-2xl.jpg",
+        "type": "file",
+        "md5": "9f42bb4c4243b3374517a3385dcb614a"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T003900.469-lg.jpg",
+        "type": "file",
+        "md5": "9f42bb4c4243b3374517a3385dcb614a"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T003900.469-md.jpg",
+        "type": "file",
+        "md5": "9f42bb4c4243b3374517a3385dcb614a"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T003900.469-sm.jpg",
+        "type": "file",
+        "md5": "eb554927b8471db9eef5fcf2b792d979"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T003900.469-sm2.jpg",
+        "type": "file",
+        "md5": "5b153c2488db1ec85fe290643785a6bb"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T003900.469-xl.jpg",
+        "type": "file",
+        "md5": "9f42bb4c4243b3374517a3385dcb614a"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-2026-10-29T003900.469-xs.jpg",
+        "type": "file",
+        "md5": "42d2cc4eb9cf3aad5771b07380710711"
+    },
+    {
+        "path": "media/posts/21",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/21/images-2026-10-31T210100.781.jpg",
+        "type": "file",
+        "md5": "bd467b020545f983d74fd22b87345fb1"
+    },
+    {
+        "path": "/media/posts/21/images-2026-10-31T210105.737.jpg",
+        "type": "file",
+        "md5": "3824055bbfe27d6afc00551806a8e05b"
+    },
+    {
+        "path": "media/posts/21/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T210100.781-lg.jpg",
+        "type": "file",
+        "md5": "c3d0fbb048ef45548db34901af4cf26a"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T210100.781-md.jpg",
+        "type": "file",
+        "md5": "c3d0fbb048ef45548db34901af4cf26a"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T210100.781-sm.jpg",
+        "type": "file",
+        "md5": "0b4bdf2e019ce29dcb478c510e1cf2ab"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T210100.781-xs.jpg",
+        "type": "file",
+        "md5": "f72ca44db3f95523f7ca9d84f05e6611"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T210105.737-2xl.jpg",
+        "type": "file",
+        "md5": "f7bbddef740594bd8e3df63c033d6826"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T210105.737-lg.jpg",
+        "type": "file",
+        "md5": "f7bbddef740594bd8e3df63c033d6826"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T210105.737-md.jpg",
+        "type": "file",
+        "md5": "f7bbddef740594bd8e3df63c033d6826"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T210105.737-sm.jpg",
+        "type": "file",
+        "md5": "f7bbddef740594bd8e3df63c033d6826"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T210105.737-sm2.jpg",
+        "type": "file",
+        "md5": "420f084db0242deae936abaa9032f6fa"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T210105.737-xl.jpg",
+        "type": "file",
+        "md5": "f7bbddef740594bd8e3df63c033d6826"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-10-31T210105.737-xs.jpg",
+        "type": "file",
+        "md5": "cd206c38c51300320954e9cdf78aecf5"
+    },
+    {
+        "path": "media/posts/22",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/22/images-10.jpg",
+        "type": "file",
+        "md5": "6243806721550b572e9d3aae36f9e2b0"
+    },
+    {
+        "path": "/media/posts/22/images-11.jpg",
+        "type": "file",
+        "md5": "94b9800ffb082d01e55f564643496752"
+    },
+    {
+        "path": "media/posts/22/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/22/responsive/images-10-lg.jpg",
+        "type": "file",
+        "md5": "49f05fc2dba52ae9fd949427f84dd0d6"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-10-md.jpg",
+        "type": "file",
+        "md5": "49f05fc2dba52ae9fd949427f84dd0d6"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-10-sm.jpg",
+        "type": "file",
+        "md5": "5e2d7690e3f00a2751b57c13f5765443"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-10-xs.jpg",
+        "type": "file",
+        "md5": "83f3b8e2534771363430857c7b2e2eab"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-11-2xl.jpg",
+        "type": "file",
+        "md5": "edb211345f5f86f982f2a0b338b52d02"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-11-lg.jpg",
+        "type": "file",
+        "md5": "edb211345f5f86f982f2a0b338b52d02"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-11-md.jpg",
+        "type": "file",
+        "md5": "edb211345f5f86f982f2a0b338b52d02"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-11-sm.jpg",
+        "type": "file",
+        "md5": "fb49bd3ce146cea31f4a4b4c70e6aeae"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-11-sm2.jpg",
+        "type": "file",
+        "md5": "8f1fb8c106b378ebf2fd6465cd8d5599"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-11-xl.jpg",
+        "type": "file",
+        "md5": "edb211345f5f86f982f2a0b338b52d02"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-11-xs.jpg",
+        "type": "file",
+        "md5": "26fca66b1340f686a437df91b69c9e2e"
+    },
+    {
+        "path": "media/posts/23",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/23/images-2026-11-11T093153.209.jpg",
+        "type": "file",
+        "md5": "a2aad39997f370f52a8015a5289b604f"
+    },
+    {
+        "path": "/media/posts/23/images-2026-11-11T093158.697.jpg",
+        "type": "file",
+        "md5": "e7baa38960997da2dea3199b02dd2e01"
+    },
+    {
+        "path": "media/posts/23/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093153.209-2xl.jpg",
+        "type": "file",
+        "md5": "e2d6503da173e17c95f5aedd76737deb"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093153.209-lg.jpg",
+        "type": "file",
+        "md5": "e2d6503da173e17c95f5aedd76737deb"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093153.209-md.jpg",
+        "type": "file",
+        "md5": "e2d6503da173e17c95f5aedd76737deb"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093153.209-sm.jpg",
+        "type": "file",
+        "md5": "e2d6503da173e17c95f5aedd76737deb"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093153.209-sm2.jpg",
+        "type": "file",
+        "md5": "faff4f44cd73c15f3767256c9272e455"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093153.209-xl.jpg",
+        "type": "file",
+        "md5": "e2d6503da173e17c95f5aedd76737deb"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093153.209-xs.jpg",
+        "type": "file",
+        "md5": "a3ea8f188e96c9bc42f25071b7ad6aa9"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093158.697-lg.jpg",
+        "type": "file",
+        "md5": "49bc6e02bada8c18d86df055cf4d6677"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093158.697-md.jpg",
+        "type": "file",
+        "md5": "49bc6e02bada8c18d86df055cf4d6677"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093158.697-sm.jpg",
+        "type": "file",
+        "md5": "49bc6e02bada8c18d86df055cf4d6677"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-11T093158.697-xs.jpg",
+        "type": "file",
+        "md5": "4724c289da099e130b17507a27699862"
+    },
+    {
+        "path": "media/posts/24",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/24/images-2026-11-14T100833.081.jpg",
+        "type": "file",
+        "md5": "c3c0597b24d025f21cacddd1bdc1dcc0"
+    },
+    {
+        "path": "/media/posts/24/images-2026-11-14T100838.187.jpg",
+        "type": "file",
+        "md5": "a452a01772bf60f9f1b5fb9810b025c7"
+    },
+    {
+        "path": "media/posts/24/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-14T100833.081-lg.jpg",
+        "type": "file",
+        "md5": "f7dc1c4132f718d1f625be3142ea0960"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-14T100833.081-md.jpg",
+        "type": "file",
+        "md5": "f7dc1c4132f718d1f625be3142ea0960"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-14T100833.081-sm.jpg",
+        "type": "file",
+        "md5": "f7dc1c4132f718d1f625be3142ea0960"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-14T100833.081-xs.jpg",
+        "type": "file",
+        "md5": "541ad5ad6d14cd41896dd0ddc7163562"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-14T100838.187-2xl.jpg",
+        "type": "file",
+        "md5": "23f1087539972f4906110498aa51be47"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-14T100838.187-lg.jpg",
+        "type": "file",
+        "md5": "23f1087539972f4906110498aa51be47"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-14T100838.187-md.jpg",
+        "type": "file",
+        "md5": "23f1087539972f4906110498aa51be47"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-14T100838.187-sm.jpg",
+        "type": "file",
+        "md5": "23f1087539972f4906110498aa51be47"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-14T100838.187-sm2.jpg",
+        "type": "file",
+        "md5": "f581fffc19615a4182dd6e54d7a7170b"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-14T100838.187-xl.jpg",
+        "type": "file",
+        "md5": "23f1087539972f4906110498aa51be47"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-14T100838.187-xs.jpg",
+        "type": "file",
+        "md5": "c833268696051ce68cbea5f2a16c23b8"
+    },
+    {
+        "path": "media/posts/25",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/25/images-2026-11-15T220415.761.jpg",
+        "type": "file",
+        "md5": "e960b6be415c6ff5544daee34df6c103"
+    },
+    {
+        "path": "/media/posts/25/images-2026-11-15T220426.583.jpg",
+        "type": "file",
+        "md5": "2c13e99b49ad5e6898537441319a2b43"
+    },
+    {
+        "path": "media/posts/25/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-15T220415.761-lg.jpg",
+        "type": "file",
+        "md5": "65c5c3008b469dd4a0818ad92bb1e77f"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-15T220415.761-md.jpg",
+        "type": "file",
+        "md5": "65c5c3008b469dd4a0818ad92bb1e77f"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-15T220415.761-sm.jpg",
+        "type": "file",
+        "md5": "65c5c3008b469dd4a0818ad92bb1e77f"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-15T220415.761-xs.jpg",
+        "type": "file",
+        "md5": "58e9e2ff68de6a1d56368f3f7b4523ef"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-15T220426.583-2xl.jpg",
+        "type": "file",
+        "md5": "d2478f2c95011ced91b660547d62f220"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-15T220426.583-lg.jpg",
+        "type": "file",
+        "md5": "d2478f2c95011ced91b660547d62f220"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-15T220426.583-md.jpg",
+        "type": "file",
+        "md5": "d2478f2c95011ced91b660547d62f220"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-15T220426.583-sm.jpg",
+        "type": "file",
+        "md5": "d2478f2c95011ced91b660547d62f220"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-15T220426.583-sm2.jpg",
+        "type": "file",
+        "md5": "a8c32a85f49099260da46390852dc1e6"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-15T220426.583-xl.jpg",
+        "type": "file",
+        "md5": "d2478f2c95011ced91b660547d62f220"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-15T220426.583-xs.jpg",
+        "type": "file",
+        "md5": "00f701af37a20c57e266937222c9ba9a"
+    },
+    {
+        "path": "media/posts/26",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/26/images-2026-11-22T071547.491-2.jpg",
+        "type": "file",
+        "md5": "1fb962118adcde96a6eea587518478c7"
+    },
+    {
+        "path": "/media/posts/26/images-2026-11-22T071554.867.jpg",
+        "type": "file",
+        "md5": "2b9a8335a36f4eb90e00d71b4e6183f4"
+    },
+    {
+        "path": "media/posts/26/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-22T071547.491-2-lg.jpg",
+        "type": "file",
+        "md5": "710667136c25bafd61c4ac094b577b9e"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-22T071547.491-2-md.jpg",
+        "type": "file",
+        "md5": "710667136c25bafd61c4ac094b577b9e"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-22T071547.491-2-sm.jpg",
+        "type": "file",
+        "md5": "710667136c25bafd61c4ac094b577b9e"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-22T071547.491-2-xs.jpg",
+        "type": "file",
+        "md5": "c2a1039bddb6592f493eafe37f6c3d62"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-22T071554.867-2xl.jpg",
+        "type": "file",
+        "md5": "c68c2d3d7d8d05f51d765ceb98d76518"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-22T071554.867-lg.jpg",
+        "type": "file",
+        "md5": "c68c2d3d7d8d05f51d765ceb98d76518"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-22T071554.867-md.jpg",
+        "type": "file",
+        "md5": "c68c2d3d7d8d05f51d765ceb98d76518"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-22T071554.867-sm.jpg",
+        "type": "file",
+        "md5": "c68c2d3d7d8d05f51d765ceb98d76518"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-22T071554.867-sm2.jpg",
+        "type": "file",
+        "md5": "a2d33f0474e54afa074129c1a05fe2a6"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-22T071554.867-xl.jpg",
+        "type": "file",
+        "md5": "c68c2d3d7d8d05f51d765ceb98d76518"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-22T071554.867-xs.jpg",
+        "type": "file",
+        "md5": "2ebbd11a6f55f391bc23deb8dfc78c20"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/images-43.jpg",
+        "type": "file",
+        "md5": "5c4f17fcb4db48918d1e905a85a80bd9"
+    },
+    {
+        "path": "/media/posts/4/images-44.jpg",
+        "type": "file",
+        "md5": "baefc3885968b68981125ae3cd96a1a9"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/images-43-2xl.jpg",
+        "type": "file",
+        "md5": "0b4012150b2aaaee628b44676344b376"
+    },
+    {
+        "path": "/media/posts/4/responsive/images-43-lg.jpg",
+        "type": "file",
+        "md5": "0b4012150b2aaaee628b44676344b376"
+    },
+    {
+        "path": "/media/posts/4/responsive/images-43-md.jpg",
+        "type": "file",
+        "md5": "0b4012150b2aaaee628b44676344b376"
+    },
+    {
+        "path": "/media/posts/4/responsive/images-43-sm.jpg",
+        "type": "file",
+        "md5": "58c2cb6d72acdd431eddca0d4b37740a"
+    },
+    {
+        "path": "/media/posts/4/responsive/images-43-sm2.jpg",
+        "type": "file",
+        "md5": "daa954feb06c3a099666ee7e6fb23ebf"
+    },
+    {
+        "path": "/media/posts/4/responsive/images-43-xl.jpg",
+        "type": "file",
+        "md5": "0b4012150b2aaaee628b44676344b376"
+    },
+    {
+        "path": "/media/posts/4/responsive/images-43-xs.jpg",
+        "type": "file",
+        "md5": "153970b499ac25863388ca6c782d26d5"
+    },
+    {
+        "path": "/media/posts/4/responsive/images-44-lg.jpg",
+        "type": "file",
+        "md5": "4616ec0450ddf0a48042337edfc4a0de"
+    },
+    {
+        "path": "/media/posts/4/responsive/images-44-md.jpg",
+        "type": "file",
+        "md5": "4616ec0450ddf0a48042337edfc4a0de"
+    },
+    {
+        "path": "/media/posts/4/responsive/images-44-sm.jpg",
+        "type": "file",
+        "md5": "bbe1c3bff148dde69feae9a3b42188c5"
+    },
+    {
+        "path": "/media/posts/4/responsive/images-44-xs.jpg",
+        "type": "file",
+        "md5": "e02342b8351588afbfe0f8aba80e8fcc"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/images-45.jpg",
+        "type": "file",
+        "md5": "c219c09df621a0114d449318a5165793"
+    },
+    {
+        "path": "/media/posts/5/images-46.jpg",
+        "type": "file",
+        "md5": "1d794afb09813e2f5e6705a45d854e5b"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/images-45-2xl.jpg",
+        "type": "file",
+        "md5": "e207f525ce367f216c5d1840f7327fb5"
+    },
+    {
+        "path": "/media/posts/5/responsive/images-45-lg.jpg",
+        "type": "file",
+        "md5": "e207f525ce367f216c5d1840f7327fb5"
+    },
+    {
+        "path": "/media/posts/5/responsive/images-45-md.jpg",
+        "type": "file",
+        "md5": "e207f525ce367f216c5d1840f7327fb5"
+    },
+    {
+        "path": "/media/posts/5/responsive/images-45-sm.jpg",
+        "type": "file",
+        "md5": "f3fe8fc20b93912310b23fffaaca67a4"
+    },
+    {
+        "path": "/media/posts/5/responsive/images-45-sm2.jpg",
+        "type": "file",
+        "md5": "52950e3d185b5875e5de0a178a2cdbd3"
+    },
+    {
+        "path": "/media/posts/5/responsive/images-45-xl.jpg",
+        "type": "file",
+        "md5": "e207f525ce367f216c5d1840f7327fb5"
+    },
+    {
+        "path": "/media/posts/5/responsive/images-45-xs.jpg",
+        "type": "file",
+        "md5": "38973c3bcaf2515207ac0dac166b2afe"
+    },
+    {
+        "path": "/media/posts/5/responsive/images-46-lg.jpg",
+        "type": "file",
+        "md5": "8df2ea89a75431a8c03337076c157ab3"
+    },
+    {
+        "path": "/media/posts/5/responsive/images-46-md.jpg",
+        "type": "file",
+        "md5": "8df2ea89a75431a8c03337076c157ab3"
+    },
+    {
+        "path": "/media/posts/5/responsive/images-46-sm.jpg",
+        "type": "file",
+        "md5": "9c7e9841ab93a891f33395fa4b246355"
+    },
+    {
+        "path": "/media/posts/5/responsive/images-46-xs.jpg",
+        "type": "file",
+        "md5": "1cbfc7f44fa10427d434fccf7d442f78"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/images-47.jpg",
+        "type": "file",
+        "md5": "f641d1d08af3368074a69eb95d248963"
+    },
+    {
+        "path": "/media/posts/6/images-48.jpg",
+        "type": "file",
+        "md5": "546dcbcb2a00c0043fa364ffb5772589"
+    },
+    {
+        "path": "media/posts/6/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/responsive/images-47-lg.jpg",
+        "type": "file",
+        "md5": "89c641acabe83a3cc64ab6354ef6f4b6"
+    },
+    {
+        "path": "/media/posts/6/responsive/images-47-md.jpg",
+        "type": "file",
+        "md5": "89c641acabe83a3cc64ab6354ef6f4b6"
+    },
+    {
+        "path": "/media/posts/6/responsive/images-47-sm.jpg",
+        "type": "file",
+        "md5": "094d09a6153db492b2f88a488e386123"
+    },
+    {
+        "path": "/media/posts/6/responsive/images-47-xs.jpg",
+        "type": "file",
+        "md5": "b0ebc5507224d0869765506df4b16f25"
+    },
+    {
+        "path": "/media/posts/6/responsive/images-48-2xl.jpg",
+        "type": "file",
+        "md5": "857a8767c220b8d42cdc0d032a712bfe"
+    },
+    {
+        "path": "/media/posts/6/responsive/images-48-lg.jpg",
+        "type": "file",
+        "md5": "857a8767c220b8d42cdc0d032a712bfe"
+    },
+    {
+        "path": "/media/posts/6/responsive/images-48-md.jpg",
+        "type": "file",
+        "md5": "857a8767c220b8d42cdc0d032a712bfe"
+    },
+    {
+        "path": "/media/posts/6/responsive/images-48-sm.jpg",
+        "type": "file",
+        "md5": "857a8767c220b8d42cdc0d032a712bfe"
+    },
+    {
+        "path": "/media/posts/6/responsive/images-48-sm2.jpg",
+        "type": "file",
+        "md5": "857a8767c220b8d42cdc0d032a712bfe"
+    },
+    {
+        "path": "/media/posts/6/responsive/images-48-xl.jpg",
+        "type": "file",
+        "md5": "857a8767c220b8d42cdc0d032a712bfe"
+    },
+    {
+        "path": "/media/posts/6/responsive/images-48-xs.jpg",
+        "type": "file",
+        "md5": "2a6cd8d54c8859e45b0d9a0a9e8bdf32"
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/images-49.jpg",
+        "type": "file",
+        "md5": "1545ac1da280ce5df694113b8a2acc63"
+    },
+    {
+        "path": "/media/posts/7/images-50.jpg",
+        "type": "file",
+        "md5": "35925392a1c8fd6616fdd023bcbfe39f"
+    },
+    {
+        "path": "media/posts/7/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/responsive/images-49-2xl.jpg",
+        "type": "file",
+        "md5": "0b67bb80a9174d7d5aef7e9e67906b3f"
+    },
+    {
+        "path": "/media/posts/7/responsive/images-49-lg.jpg",
+        "type": "file",
+        "md5": "0b67bb80a9174d7d5aef7e9e67906b3f"
+    },
+    {
+        "path": "/media/posts/7/responsive/images-49-md.jpg",
+        "type": "file",
+        "md5": "0b67bb80a9174d7d5aef7e9e67906b3f"
+    },
+    {
+        "path": "/media/posts/7/responsive/images-49-sm.jpg",
+        "type": "file",
+        "md5": "1b8f04596eaab3ed1c00563eeedbb4d1"
+    },
+    {
+        "path": "/media/posts/7/responsive/images-49-sm2.jpg",
+        "type": "file",
+        "md5": "ab59971c2a63bbe4f4f7f55cf07607c1"
+    },
+    {
+        "path": "/media/posts/7/responsive/images-49-xl.jpg",
+        "type": "file",
+        "md5": "0b67bb80a9174d7d5aef7e9e67906b3f"
+    },
+    {
+        "path": "/media/posts/7/responsive/images-49-xs.jpg",
+        "type": "file",
+        "md5": "2acbc9d4e477b433a144c6509b5d1713"
+    },
+    {
+        "path": "/media/posts/7/responsive/images-50-lg.jpg",
+        "type": "file",
+        "md5": "0f4fec141527201611072ef624dca307"
+    },
+    {
+        "path": "/media/posts/7/responsive/images-50-md.jpg",
+        "type": "file",
+        "md5": "0f4fec141527201611072ef624dca307"
+    },
+    {
+        "path": "/media/posts/7/responsive/images-50-sm.jpg",
+        "type": "file",
+        "md5": "a1ffdf0c23e58c1ef289b0ad3524b970"
+    },
+    {
+        "path": "/media/posts/7/responsive/images-50-xs.jpg",
+        "type": "file",
+        "md5": "6c2918f5cca237414caa6ecbf37cabcc"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/images-51.jpg",
+        "type": "file",
+        "md5": "210a84b9e80d5dad32475b3958e62b7c"
+    },
+    {
+        "path": "media/posts/8/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/images-51-2xl.jpg",
+        "type": "file",
+        "md5": "698a92a3ee54f6d603d23352c5c4347f"
+    },
+    {
+        "path": "/media/posts/8/responsive/images-51-lg.jpg",
+        "type": "file",
+        "md5": "698a92a3ee54f6d603d23352c5c4347f"
+    },
+    {
+        "path": "/media/posts/8/responsive/images-51-md.jpg",
+        "type": "file",
+        "md5": "698a92a3ee54f6d603d23352c5c4347f"
+    },
+    {
+        "path": "/media/posts/8/responsive/images-51-sm.jpg",
+        "type": "file",
+        "md5": "698a92a3ee54f6d603d23352c5c4347f"
+    },
+    {
+        "path": "/media/posts/8/responsive/images-51-sm2.jpg",
+        "type": "file",
+        "md5": "ab6026f21b13ad31d3fb89937bb2bf30"
+    },
+    {
+        "path": "/media/posts/8/responsive/images-51-xl.jpg",
+        "type": "file",
+        "md5": "698a92a3ee54f6d603d23352c5c4347f"
+    },
+    {
+        "path": "/media/posts/8/responsive/images-51-xs.jpg",
+        "type": "file",
+        "md5": "91f543e6f9b393ae0924b63212e2c097"
+    },
+    {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/images-53.jpg",
+        "type": "file",
+        "md5": "fbb3132055dcb8bb261c30ac5d77286c"
+    },
+    {
+        "path": "/media/posts/9/images-54.jpg",
+        "type": "file",
+        "md5": "42e1bf976b0d2d38a0480274316f42c0"
+    },
+    {
+        "path": "media/posts/9/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/responsive/images-53-2xl.jpg",
+        "type": "file",
+        "md5": "06f0ceab9070eff75436f428a842d7bb"
+    },
+    {
+        "path": "/media/posts/9/responsive/images-53-lg.jpg",
+        "type": "file",
+        "md5": "06f0ceab9070eff75436f428a842d7bb"
+    },
+    {
+        "path": "/media/posts/9/responsive/images-53-md.jpg",
+        "type": "file",
+        "md5": "06f0ceab9070eff75436f428a842d7bb"
+    },
+    {
+        "path": "/media/posts/9/responsive/images-53-sm.jpg",
+        "type": "file",
+        "md5": "97c25bcd152e8984da147faf8580c419"
+    },
+    {
+        "path": "/media/posts/9/responsive/images-53-sm2.jpg",
+        "type": "file",
+        "md5": "7af23b82b8b7b12b77a843155cd0da01"
+    },
+    {
+        "path": "/media/posts/9/responsive/images-53-xl.jpg",
+        "type": "file",
+        "md5": "06f0ceab9070eff75436f428a842d7bb"
+    },
+    {
+        "path": "/media/posts/9/responsive/images-53-xs.jpg",
+        "type": "file",
+        "md5": "d643b21604f0dc508f6e81d1cb5587a1"
+    },
+    {
+        "path": "/media/posts/9/responsive/images-54-lg.jpg",
+        "type": "file",
+        "md5": "02b9aad5e92d298d662e4b0c6cbc98d0"
+    },
+    {
+        "path": "/media/posts/9/responsive/images-54-md.jpg",
+        "type": "file",
+        "md5": "02b9aad5e92d298d662e4b0c6cbc98d0"
+    },
+    {
+        "path": "/media/posts/9/responsive/images-54-sm.jpg",
+        "type": "file",
+        "md5": "c0a2b8d7f33c29d4658ab4056e8aceff"
+    },
+    {
+        "path": "/media/posts/9/responsive/images-54-xs.jpg",
+        "type": "file",
+        "md5": "a8d79917780dfd7c2ce6a9f29d9e2b75"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/luxury-home-touch-logo.png",
+        "type": "file",
+        "md5": "547ec2fe759f088ec8db5030667319a5"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/luxury-home-touch-logo-2xl.png",
+        "type": "file",
+        "md5": "ebdfc97386ef17f0b84874d772423e7d"
+    },
+    {
+        "path": "/media/website/responsive/luxury-home-touch-logo-lg.png",
+        "type": "file",
+        "md5": "944bed7bc742233050a9b5f50aa90a31"
+    },
+    {
+        "path": "/media/website/responsive/luxury-home-touch-logo-md.png",
+        "type": "file",
+        "md5": "0fd6510bec1cde99ab11353989601a87"
+    },
+    {
+        "path": "/media/website/responsive/luxury-home-touch-logo-sm.png",
+        "type": "file",
+        "md5": "f116e821f549c8b8c296fc8e9b329c07"
+    },
+    {
+        "path": "/media/website/responsive/luxury-home-touch-logo-xl.png",
+        "type": "file",
+        "md5": "5396ec1b51861c8fb5f36d52303648da"
+    },
+    {
+        "path": "/media/website/responsive/luxury-home-touch-logo-xs.png",
+        "type": "file",
+        "md5": "751e261511e3eb8b82b2202312039b06"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "5cea399c0aca0d2cd76d7e91a50e1ca5"
+    },
+    {
+        "path": "page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/3/index.html",
+        "type": "file",
+        "md5": "1c9050cabdb31aac150c306b83316e4f"
+    },
+    {
+        "path": "privacy-policy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/privacy-policy/index.html",
+        "type": "file",
+        "md5": "3f0a29f54b2a94151b83ca50682067a1"
+    },
+    {
+        "path": "recessed-led-coves-elegant-lighting-ideas-for-modern-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/recessed-led-coves-elegant-lighting-ideas-for-modern-interiors/index.html",
+        "type": "file",
+        "md5": "e523e73c037c8438b305c415d2cf98bd"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "b984252926392bdade4b375a2ad9e45c"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "39b41bfbddc714f5da076ef9ddbfcaaa"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "solid-oak-parquet-timeless-elegance-and-lasting-durability-for-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/solid-oak-parquet-timeless-elegance-and-lasting-durability-for-your-home/index.html",
+        "type": "file",
+        "md5": "adb566cfc50f533a785cb86725bb35e7"
+    },
+    {
+        "path": "statement-wall-sconces-stylish-lighting-ideas-to-transform-your-interior",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/statement-wall-sconces-stylish-lighting-ideas-to-transform-your-interior/index.html",
+        "type": "file",
+        "md5": "4454c9c61e813f56a5dc6cf7873fcd07"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/antique-brass-hardware",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/antique-brass-hardware/index.html",
+        "type": "file",
+        "md5": "5ec0ca12ae946909283814bb63de1f8e"
+    },
+    {
+        "path": "tags/carved-wooden-doors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/carved-wooden-doors/index.html",
+        "type": "file",
+        "md5": "724026c158385c2e138d3e78b07ad1d0"
+    },
+    {
+        "path": "tags/crystal-chandeliers",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/crystal-chandeliers/index.html",
+        "type": "file",
+        "md5": "66524e90bcb5dca6a839ec863914bbb7"
+    },
+    {
+        "path": "tags/doors-and-artistic-antiques",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/doors-and-artistic-antiques/index.html",
+        "type": "file",
+        "md5": "d1287c3d5db3c10c971638c6a9bd6b73"
+    },
+    {
+        "path": "tags/flooring-and-parquet",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/flooring-and-parquet/index.html",
+        "type": "file",
+        "md5": "9d68e94a80dc092c9e8ac1813b5aa760"
+    },
+    {
+        "path": "tags/grand-foyers",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/grand-foyers/index.html",
+        "type": "file",
+        "md5": "e75ee270589f636cfd17e369fb4b986e"
+    },
+    {
+        "path": "tags/herringbone-flooring",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/herringbone-flooring/index.html",
+        "type": "file",
+        "md5": "7ec0fd31deec02d80fa5f70c9f393362"
+    },
+    {
+        "path": "tags/hidden-lighting-and-chandeliers",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/hidden-lighting-and-chandeliers/index.html",
+        "type": "file",
+        "md5": "4589e6f481646a8c3c5ab90a1db322db"
+    },
+    {
+        "path": "tags/high-ceiling-styling",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/high-ceiling-styling/index.html",
+        "type": "file",
+        "md5": "06ba5e73d2aeca883f48f25e1ae017b9"
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "d1ee1fcb080989243364d5d62dc809cf"
+    },
+    {
+        "path": "tags/italian-marble-tiles",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/italian-marble-tiles/index.html",
+        "type": "file",
+        "md5": "8c5c2b9aacee6e021e1901dcb5741a23"
+    },
+    {
+        "path": "tags/luxury-wall-panels",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/luxury-wall-panels/index.html",
+        "type": "file",
+        "md5": "218a09ab30f3d6b461fb8055f5761377"
+    },
+    {
+        "path": "tags/recessed-led-coves",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/recessed-led-coves/index.html",
+        "type": "file",
+        "md5": "d5603d75789f42fbee028bf7bd19506c"
+    },
+    {
+        "path": "tags/solid-oak-parquet",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/solid-oak-parquet/index.html",
+        "type": "file",
+        "md5": "7d1043880d2c73fc56c49af7b4583db2"
+    },
+    {
+        "path": "tags/statement-wall-sconces",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/statement-wall-sconces/index.html",
+        "type": "file",
+        "md5": "0cc9da1e9543f48a025219be434e4642"
+    },
+    {
+        "path": "tags/villa-and-mansion-decor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/villa-and-mansion-decor/index.html",
+        "type": "file",
+        "md5": "3e1bb932832ebbd077dc416ea2c9afff"
+    },
+    {
+        "path": "tags/vintage-artifacts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/vintage-artifacts/index.html",
+        "type": "file",
+        "md5": "54e388dec15b4db74e1fb48632516ec3"
+    },
+    {
+        "path": "timeless-elegance-and-artistic-craftsmanship",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-and-artistic-craftsmanship/index.html",
+        "type": "file",
+        "md5": "836c77ef9d5ad990752ecbc80f920a33"
+    },
+    {
+        "path": "timeless-elegance-and-brilliant-illumination-for-every-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-and-brilliant-illumination-for-every-home/index.html",
+        "type": "file",
+        "md5": "2ee9d7fcd0fdf5a8f9976a303edd8ed4"
+    },
+    {
+        "path": "timeless-elegance-and-luxury-for-beautiful-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-and-luxury-for-beautiful-interiors/index.html",
+        "type": "file",
+        "md5": "3386d9631dec7ce0eff227dca6ff8030"
+    },
+    {
+        "path": "timeless-elegance-for-luxurious-interior-design",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-for-luxurious-interior-design/index.html",
+        "type": "file",
+        "md5": "b3edf7d99de4a19014535dd59a114187"
+    },
+    {
+        "path": "timeless-flooring-for-elegant-and-stylish-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-flooring-for-elegant-and-stylish-interiors/index.html",
+        "type": "file",
+        "md5": "cb29c432b8ee0e3a5e6568d93c233203"
+    },
+    {
+        "path": "timeless-patterns-for-elegant-and-modern-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-patterns-for-elegant-and-modern-interiors/index.html",
+        "type": "file",
+        "md5": "80f9fc2b3b8db4831e11e71fbd49b6bb"
+    },
+    {
+        "path": "transforming-everyday-spaces-into-elegant-and-comfortable-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/transforming-everyday-spaces-into-elegant-and-comfortable-interiors/index.html",
+        "type": "file",
+        "md5": "f03dbf9283393cd3ae04a77f004548d6"
+    },
+    {
+        "path": "vintage-artifacts-timeless-treasures-that-bring-history-into-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/vintage-artifacts-timeless-treasures-that-bring-history-into-your-home/index.html",
+        "type": "file",
+        "md5": "812e2ca040f2b9f59d40da78046bece2"
+    }
+]
