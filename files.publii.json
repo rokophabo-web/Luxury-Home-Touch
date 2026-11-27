@@ -32,7 +32,7 @@
     {
         "path": "/antique-brass-hardware-timeless-details-for-elegant-interiors/index.html",
         "type": "file",
-        "md5": "9326263192bee56c1a3fe1631b8dfe08"
+        "md5": "0adcae03162d09185133b1734036705a"
     },
     {
         "path": "assets",
@@ -117,7 +117,7 @@
     {
         "path": "/authors/villa-and-mansion-decor/index.html",
         "type": "file",
-        "md5": "f0d18d22328e9211eccca66981ff6fff"
+        "md5": "80b8234ea4ebc3744157398f06f7c278"
     },
     {
         "path": "authors/villa-and-mansion-decor/page",
@@ -132,7 +132,7 @@
     {
         "path": "/authors/villa-and-mansion-decor/page/2/index.html",
         "type": "file",
-        "md5": "27744836e60bd4b27965e318d47c9410"
+        "md5": "7cf7c4e730fd9d33a13cf11c515bec88"
     },
     {
         "path": "authors/villa-and-mansion-decor/page/3",
@@ -142,7 +142,7 @@
     {
         "path": "/authors/villa-and-mansion-decor/page/3/index.html",
         "type": "file",
-        "md5": "11943613b2ec704e0f3170665dd57d25"
+        "md5": "029527051780f988b2803ce1f4514133"
     },
     {
         "path": "contact-us",
@@ -162,7 +162,7 @@
     {
         "path": "/creating-an-elegant-and-welcoming-first-impression/index.html",
         "type": "file",
-        "md5": "c10436eb0fc53abfc07c7c6097ed9a80"
+        "md5": "e34a7304f527b3798978065523076fbd"
     },
     {
         "path": "creating-an-impressive-entrance-with-elegant-interior-design",
@@ -173,6 +173,16 @@
         "path": "/creating-an-impressive-entrance-with-elegant-interior-design/index.html",
         "type": "file",
         "md5": "4aa3a0da970851a1bc3a646a79bbf239"
+    },
+    {
+        "path": "creating-timeless-interiors-through-thoughtful-decorative-details",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creating-timeless-interiors-through-thoughtful-decorative-details/index.html",
+        "type": "file",
+        "md5": "e43dddcfa17216304219ffe571d4f3cf"
     },
     {
         "path": "creative-ideas-to-make-your-interior-feel-elegant-and-inviting",
@@ -192,7 +202,7 @@
     {
         "path": "/creative-interior-design-ideas-for-spacious-and-elegant-living-areas/index.html",
         "type": "file",
-        "md5": "5f689b07de30935f2bd4a3e48278f6aa"
+        "md5": "b59ae735d837916a74522a4cf35532d8"
     },
     {
         "path": "elegant-design-ideas-for-a-sophisticated-interior",
@@ -222,7 +232,7 @@
     {
         "path": "/elegant-lighting-ideas-to-bring-luxury-and-sophistication-into-your-home/index.html",
         "type": "file",
-        "md5": "bafa1c4642e8a023e84f888fd07975be"
+        "md5": "2a43735da93ace21b04e795f12c65f0a"
     },
     {
         "path": "elevating-interior-design-with-decorative-and-functional-wall-lighting",
@@ -232,17 +242,27 @@
     {
         "path": "/elevating-interior-design-with-decorative-and-functional-wall-lighting/index.html",
         "type": "file",
-        "md5": "4a3dab0e17095a22c3c79c49d298d973"
+        "md5": "c8db7b9f257e9f5d5114d09505bcd08e"
+    },
+    {
+        "path": "elevating-interior-design-with-elegant-decorative-lighting",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elevating-interior-design-with-elegant-decorative-lighting/index.html",
+        "type": "file",
+        "md5": "46c03b14e9541cbf61a707c6aed2fe7b"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "91ca4e586b71427d6d26931f7094fb38"
+        "md5": "0de5451201cc9cd798329c2375fd986c"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "3ecba0260304c16ae6e93d3fed22cfa6"
+        "md5": "b217da92e3cb628cddc311a84efe906f"
     },
     {
         "path": "high-ceiling-styling-elegant-ideas-for-creating-a-spacious-and-luxurious-home",
@@ -257,7 +277,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "189f95c0a39cdd95b5b000e46220d727"
+        "md5": "3ff20391b4a17b9f577da1ae14bceae4"
     },
     {
         "path": "italian-marble-tiles-elegant-flooring-for-luxurious-and-timeless-interiors",
@@ -1615,6 +1635,381 @@
         "md5": "941f96d589627c47edfa7ff96208ed56"
     },
     {
+        "path": "media/posts/28",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/28/images-2026-11-27T212444.002.jpg",
+        "type": "file",
+        "md5": "5d9848f182508adcb979eba9370b4915"
+    },
+    {
+        "path": "/media/posts/28/images-2026-11-27T212449.887.jpg",
+        "type": "file",
+        "md5": "bd33b2378fc074e6c56d4dc445b3dc96"
+    },
+    {
+        "path": "media/posts/28/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/28/responsive/images-2026-11-27T212444.002-2xl.jpg",
+        "type": "file",
+        "md5": "4cfad68f34ba0512e96299621ac195df"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-2026-11-27T212444.002-lg.jpg",
+        "type": "file",
+        "md5": "4cfad68f34ba0512e96299621ac195df"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-2026-11-27T212444.002-md.jpg",
+        "type": "file",
+        "md5": "4cfad68f34ba0512e96299621ac195df"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-2026-11-27T212444.002-sm.jpg",
+        "type": "file",
+        "md5": "50095759939e531e4fa23c9fce508a20"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-2026-11-27T212444.002-sm2.jpg",
+        "type": "file",
+        "md5": "5fbeb082849dfa5284c985e737ab6ef4"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-2026-11-27T212444.002-xl.jpg",
+        "type": "file",
+        "md5": "4cfad68f34ba0512e96299621ac195df"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-2026-11-27T212444.002-xs.jpg",
+        "type": "file",
+        "md5": "70fcf67d31fa075551f2350334db92d8"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-2026-11-27T212449.887-lg.jpg",
+        "type": "file",
+        "md5": "ad16b6c6a814ac17c45c97f2d71315d5"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-2026-11-27T212449.887-md.jpg",
+        "type": "file",
+        "md5": "ad16b6c6a814ac17c45c97f2d71315d5"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-2026-11-27T212449.887-sm.jpg",
+        "type": "file",
+        "md5": "64bc5471878aa7f3b969eecc905326c9"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-2026-11-27T212449.887-xs.jpg",
+        "type": "file",
+        "md5": "9858dc2f01b7c14dd0ec38bf0d815437"
+    },
+    {
+        "path": "media/posts/29",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/29/images-2026-11-27T213232.048.jpg",
+        "type": "file",
+        "md5": "dbabe12eb1de8c46e45e8a3f5aed498e"
+    },
+    {
+        "path": "/media/posts/29/images-2026-11-27T213241.796.jpg",
+        "type": "file",
+        "md5": "93602abc3ca899dc4a8665c8fcf386a4"
+    },
+    {
+        "path": "media/posts/29/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/29/responsive/images-2026-11-27T213232.048-2xl.jpg",
+        "type": "file",
+        "md5": "f427f158a72bee290a34547384e1bd48"
+    },
+    {
+        "path": "/media/posts/29/responsive/images-2026-11-27T213232.048-lg.jpg",
+        "type": "file",
+        "md5": "f427f158a72bee290a34547384e1bd48"
+    },
+    {
+        "path": "/media/posts/29/responsive/images-2026-11-27T213232.048-md.jpg",
+        "type": "file",
+        "md5": "f427f158a72bee290a34547384e1bd48"
+    },
+    {
+        "path": "/media/posts/29/responsive/images-2026-11-27T213232.048-sm.jpg",
+        "type": "file",
+        "md5": "f427f158a72bee290a34547384e1bd48"
+    },
+    {
+        "path": "/media/posts/29/responsive/images-2026-11-27T213232.048-sm2.jpg",
+        "type": "file",
+        "md5": "827f05f9ea8ea15c24c4542ef84ec671"
+    },
+    {
+        "path": "/media/posts/29/responsive/images-2026-11-27T213232.048-xl.jpg",
+        "type": "file",
+        "md5": "f427f158a72bee290a34547384e1bd48"
+    },
+    {
+        "path": "/media/posts/29/responsive/images-2026-11-27T213232.048-xs.jpg",
+        "type": "file",
+        "md5": "ac3e492ff4171bd468f134ebd891658a"
+    },
+    {
+        "path": "/media/posts/29/responsive/images-2026-11-27T213241.796-lg.jpg",
+        "type": "file",
+        "md5": "7b8b148bc7fc1696ad8d119a00c34586"
+    },
+    {
+        "path": "/media/posts/29/responsive/images-2026-11-27T213241.796-md.jpg",
+        "type": "file",
+        "md5": "7b8b148bc7fc1696ad8d119a00c34586"
+    },
+    {
+        "path": "/media/posts/29/responsive/images-2026-11-27T213241.796-sm.jpg",
+        "type": "file",
+        "md5": "7c23ff1c7ebbe598e6481542edeb6912"
+    },
+    {
+        "path": "/media/posts/29/responsive/images-2026-11-27T213241.796-xs.jpg",
+        "type": "file",
+        "md5": "9a7fc680d4eb490e34e08a4693732b13"
+    },
+    {
+        "path": "media/posts/30",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/30/images-2026-11-27T213232.048.jpg",
+        "type": "file",
+        "md5": "dbabe12eb1de8c46e45e8a3f5aed498e"
+    },
+    {
+        "path": "/media/posts/30/images-2026-11-27T213241.796.jpg",
+        "type": "file",
+        "md5": "93602abc3ca899dc4a8665c8fcf386a4"
+    },
+    {
+        "path": "media/posts/30/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/30/responsive/images-2026-11-27T213232.048-2xl.jpg",
+        "type": "file",
+        "md5": "f427f158a72bee290a34547384e1bd48"
+    },
+    {
+        "path": "/media/posts/30/responsive/images-2026-11-27T213232.048-lg.jpg",
+        "type": "file",
+        "md5": "f427f158a72bee290a34547384e1bd48"
+    },
+    {
+        "path": "/media/posts/30/responsive/images-2026-11-27T213232.048-md.jpg",
+        "type": "file",
+        "md5": "f427f158a72bee290a34547384e1bd48"
+    },
+    {
+        "path": "/media/posts/30/responsive/images-2026-11-27T213232.048-sm.jpg",
+        "type": "file",
+        "md5": "f427f158a72bee290a34547384e1bd48"
+    },
+    {
+        "path": "/media/posts/30/responsive/images-2026-11-27T213232.048-sm2.jpg",
+        "type": "file",
+        "md5": "827f05f9ea8ea15c24c4542ef84ec671"
+    },
+    {
+        "path": "/media/posts/30/responsive/images-2026-11-27T213232.048-xl.jpg",
+        "type": "file",
+        "md5": "f427f158a72bee290a34547384e1bd48"
+    },
+    {
+        "path": "/media/posts/30/responsive/images-2026-11-27T213232.048-xs.jpg",
+        "type": "file",
+        "md5": "ac3e492ff4171bd468f134ebd891658a"
+    },
+    {
+        "path": "/media/posts/30/responsive/images-2026-11-27T213241.796-lg.jpg",
+        "type": "file",
+        "md5": "7b8b148bc7fc1696ad8d119a00c34586"
+    },
+    {
+        "path": "/media/posts/30/responsive/images-2026-11-27T213241.796-md.jpg",
+        "type": "file",
+        "md5": "7b8b148bc7fc1696ad8d119a00c34586"
+    },
+    {
+        "path": "/media/posts/30/responsive/images-2026-11-27T213241.796-sm.jpg",
+        "type": "file",
+        "md5": "7c23ff1c7ebbe598e6481542edeb6912"
+    },
+    {
+        "path": "/media/posts/30/responsive/images-2026-11-27T213241.796-xs.jpg",
+        "type": "file",
+        "md5": "9a7fc680d4eb490e34e08a4693732b13"
+    },
+    {
+        "path": "media/posts/31",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/31/images-2026-11-27T214119.173-2.jpg",
+        "type": "file",
+        "md5": "3b2607becfac4c9a9d80406dac9a7907"
+    },
+    {
+        "path": "/media/posts/31/images-2026-11-27T214153.612.jpg",
+        "type": "file",
+        "md5": "4f7f313eb2df539ec5aa1a25fcaf53d8"
+    },
+    {
+        "path": "media/posts/31/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/31/responsive/images-2026-11-27T214119.173-2-lg.jpg",
+        "type": "file",
+        "md5": "1dbf8a467d25910fbb8b2242bf1abd95"
+    },
+    {
+        "path": "/media/posts/31/responsive/images-2026-11-27T214119.173-2-md.jpg",
+        "type": "file",
+        "md5": "1dbf8a467d25910fbb8b2242bf1abd95"
+    },
+    {
+        "path": "/media/posts/31/responsive/images-2026-11-27T214119.173-2-sm.jpg",
+        "type": "file",
+        "md5": "dbda479bd330f052e5efa075fedf24ce"
+    },
+    {
+        "path": "/media/posts/31/responsive/images-2026-11-27T214119.173-2-xs.jpg",
+        "type": "file",
+        "md5": "5ae1a1e06e9e26fc808f78b9201f96c0"
+    },
+    {
+        "path": "/media/posts/31/responsive/images-2026-11-27T214153.612-2xl.jpg",
+        "type": "file",
+        "md5": "c541f7213a21fc61c1fd3578a0ec7cb3"
+    },
+    {
+        "path": "/media/posts/31/responsive/images-2026-11-27T214153.612-lg.jpg",
+        "type": "file",
+        "md5": "c541f7213a21fc61c1fd3578a0ec7cb3"
+    },
+    {
+        "path": "/media/posts/31/responsive/images-2026-11-27T214153.612-md.jpg",
+        "type": "file",
+        "md5": "c541f7213a21fc61c1fd3578a0ec7cb3"
+    },
+    {
+        "path": "/media/posts/31/responsive/images-2026-11-27T214153.612-sm.jpg",
+        "type": "file",
+        "md5": "c541f7213a21fc61c1fd3578a0ec7cb3"
+    },
+    {
+        "path": "/media/posts/31/responsive/images-2026-11-27T214153.612-sm2.jpg",
+        "type": "file",
+        "md5": "c2805ae3be402c5124169abbcb610469"
+    },
+    {
+        "path": "/media/posts/31/responsive/images-2026-11-27T214153.612-xl.jpg",
+        "type": "file",
+        "md5": "c541f7213a21fc61c1fd3578a0ec7cb3"
+    },
+    {
+        "path": "/media/posts/31/responsive/images-2026-11-27T214153.612-xs.jpg",
+        "type": "file",
+        "md5": "eb87e071e9a9f15f06f2e45c71c82d95"
+    },
+    {
+        "path": "media/posts/32",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/32/images-2026-11-27T214345.793.jpg",
+        "type": "file",
+        "md5": "6e3e0b999bd90e7f1e8e36feb90ef79d"
+    },
+    {
+        "path": "/media/posts/32/images-2026-11-27T214353.906.jpg",
+        "type": "file",
+        "md5": "573b3efc96419b71e0815569b92228b9"
+    },
+    {
+        "path": "media/posts/32/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-27T214345.793-2xl.jpg",
+        "type": "file",
+        "md5": "f84c754667e552dc84891728fa676bd9"
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-27T214345.793-lg.jpg",
+        "type": "file",
+        "md5": "f84c754667e552dc84891728fa676bd9"
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-27T214345.793-md.jpg",
+        "type": "file",
+        "md5": "f84c754667e552dc84891728fa676bd9"
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-27T214345.793-sm.jpg",
+        "type": "file",
+        "md5": "f84c754667e552dc84891728fa676bd9"
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-27T214345.793-sm2.jpg",
+        "type": "file",
+        "md5": "9513843fbe76c69820c84caf6578b821"
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-27T214345.793-xl.jpg",
+        "type": "file",
+        "md5": "f84c754667e552dc84891728fa676bd9"
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-27T214345.793-xs.jpg",
+        "type": "file",
+        "md5": "a6335b41c0cbf8e5ccb550596b80a5f4"
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-27T214353.906-lg.jpg",
+        "type": "file",
+        "md5": "d74f957f6d3076da477614232ed4db71"
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-27T214353.906-md.jpg",
+        "type": "file",
+        "md5": "d74f957f6d3076da477614232ed4db71"
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-27T214353.906-sm.jpg",
+        "type": "file",
+        "md5": "f3ddf931fcb9da332aa39f7ae1e04a93"
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-27T214353.906-xs.jpg",
+        "type": "file",
+        "md5": "613874cd0dc5c39af56a9fd51cc8541b"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -2097,7 +2492,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "86400a38434187472346deee8f9f4275"
+        "md5": "b04e1c0b8de2a4da44a14bc120d870f3"
     },
     {
         "path": "page/3",
@@ -2107,7 +2502,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "8d64e82d7669b3a3d3bf4f0f9cf8b677"
+        "md5": "bd3a74ef02648ee843d691b5a4368158"
     },
     {
         "path": "privacy-policy",
@@ -2127,7 +2522,7 @@
     {
         "path": "/recessed-led-coves-elegant-lighting-ideas-for-modern-interiors/index.html",
         "type": "file",
-        "md5": "e523e73c037c8438b305c415d2cf98bd"
+        "md5": "dfff058c610e6adce88c2abb80d90b94"
     },
     {
         "path": "robots.txt",
@@ -2137,7 +2532,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "f6c21f2eb65e109fb42949710b0e6a56"
+        "md5": "8594127c0a3a8381db6625d03fcacbaf"
     },
     {
         "path": "sitemap.xsl",
@@ -2162,7 +2557,7 @@
     {
         "path": "/statement-wall-sconces-stylish-lighting-ideas-to-transform-your-interior/index.html",
         "type": "file",
-        "md5": "4454c9c61e813f56a5dc6cf7873fcd07"
+        "md5": "f6a582cc215794fdcbea56494e03a972"
     },
     {
         "path": "tags",
@@ -2177,7 +2572,7 @@
     {
         "path": "/tags/antique-brass-hardware/index.html",
         "type": "file",
-        "md5": "5ec0ca12ae946909283814bb63de1f8e"
+        "md5": "1e1c065c8ccd52d484770c511002dace"
     },
     {
         "path": "tags/carved-wooden-doors",
@@ -2197,7 +2592,7 @@
     {
         "path": "/tags/crystal-chandeliers/index.html",
         "type": "file",
-        "md5": "66524e90bcb5dca6a839ec863914bbb7"
+        "md5": "363a4fe380b52977ecc95dbf6e5a46e3"
     },
     {
         "path": "tags/doors-and-artistic-antiques",
@@ -2207,7 +2602,7 @@
     {
         "path": "/tags/doors-and-artistic-antiques/index.html",
         "type": "file",
-        "md5": "d1287c3d5db3c10c971638c6a9bd6b73"
+        "md5": "e417b818d304de1675c4960a1d5b0680"
     },
     {
         "path": "tags/flooring-and-parquet",
@@ -2217,7 +2612,7 @@
     {
         "path": "/tags/flooring-and-parquet/index.html",
         "type": "file",
-        "md5": "9d68e94a80dc092c9e8ac1813b5aa760"
+        "md5": "c869d7f7f8a04164a55db05f76da0f4c"
     },
     {
         "path": "tags/grand-foyers",
@@ -2237,7 +2632,7 @@
     {
         "path": "/tags/herringbone-flooring/index.html",
         "type": "file",
-        "md5": "7ec0fd31deec02d80fa5f70c9f393362"
+        "md5": "896c8edcf22d2dbcecdad700c7cc4868"
     },
     {
         "path": "tags/hidden-lighting-and-chandeliers",
@@ -2247,7 +2642,7 @@
     {
         "path": "/tags/hidden-lighting-and-chandeliers/index.html",
         "type": "file",
-        "md5": "4589e6f481646a8c3c5ab90a1db322db"
+        "md5": "17785b0efa54140ceeb0ff1f4df29f24"
     },
     {
         "path": "tags/high-ceiling-styling",
@@ -2262,7 +2657,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "538f720ce13374adc8533ce5c1c5ac15"
+        "md5": "81df7b3f27c370222b5d52916208d5a0"
     },
     {
         "path": "tags/italian-marble-tiles",
@@ -2282,7 +2677,7 @@
     {
         "path": "/tags/luxury-wall-panels/index.html",
         "type": "file",
-        "md5": "218a09ab30f3d6b461fb8055f5761377"
+        "md5": "3581dfaab84da98a68eb30a7b4a755d6"
     },
     {
         "path": "tags/recessed-led-coves",
@@ -2312,7 +2707,7 @@
     {
         "path": "/tags/statement-wall-sconces/index.html",
         "type": "file",
-        "md5": "0cc9da1e9543f48a025219be434e4642"
+        "md5": "989fcb6e76938a9bd9fc0bb627e808a6"
     },
     {
         "path": "tags/villa-and-mansion-decor",
@@ -2322,7 +2717,7 @@
     {
         "path": "/tags/villa-and-mansion-decor/index.html",
         "type": "file",
-        "md5": "509de919ca56e18537e85edb4770458e"
+        "md5": "39a659bf93b681768eaee6de01c590d4"
     },
     {
         "path": "tags/vintage-artifacts",
@@ -2372,7 +2767,7 @@
     {
         "path": "/timeless-elegance-for-luxurious-interior-design/index.html",
         "type": "file",
-        "md5": "b3edf7d99de4a19014535dd59a114187"
+        "md5": "4742555bd1c41ffd893526b6d027033f"
     },
     {
         "path": "timeless-flooring-for-elegant-and-stylish-interiors",
@@ -2382,7 +2777,7 @@
     {
         "path": "/timeless-flooring-for-elegant-and-stylish-interiors/index.html",
         "type": "file",
-        "md5": "cb29c432b8ee0e3a5e6568d93c233203"
+        "md5": "7d2f1301c6b384f5fd976a7597a135d2"
     },
     {
         "path": "timeless-patterns-for-elegant-and-modern-interiors",
@@ -2402,7 +2797,37 @@
     {
         "path": "/transforming-everyday-spaces-into-elegant-and-comfortable-interiors/index.html",
         "type": "file",
-        "md5": "4b38f3a9c1125f35954ce83281b5de9b"
+        "md5": "ec690d4f5dc201193d081069fa58df05"
+    },
+    {
+        "path": "transforming-interior-spaces-with-creative-and-functional-lighting",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/transforming-interior-spaces-with-creative-and-functional-lighting/index.html",
+        "type": "file",
+        "md5": "597e270babf5ce57e157885846e5e9ec"
+    },
+    {
+        "path": "transforming-interior-spaces-with-elegant-wall-design",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/transforming-interior-spaces-with-elegant-wall-design/index.html",
+        "type": "file",
+        "md5": "a5175fd15f1accb8451778431d42aab3"
+    },
+    {
+        "path": "transforming-interior-spaces-with-timeless-flooring-designs",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/transforming-interior-spaces-with-timeless-flooring-designs/index.html",
+        "type": "file",
+        "md5": "ade63ad8bfe379c1007a208b61f39a5a"
     },
     {
         "path": "vintage-artifacts-timeless-treasures-that-bring-history-into-your-home",
